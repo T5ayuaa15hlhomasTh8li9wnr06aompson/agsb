@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "zhaoyun"         # 用户名
 UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "xyz121.053400.xyz"                   # 域名，留空则自动获取
+DOMAIN = "053400.xyz"                   # 域名，留空则自动获取
 CF_TOKEN = "cloudflared.exe service install eyJhIjoiZTU2YTlmMjBhYTMxOTAzZGE4N2RlOGYwZWU4NWZjZWMiLCJ0IjoiNTMzZTM2MTktYjA4MC00NGIwLWEwMTEtM2NiMjE0MTZkMDMxIiwicyI6Ik5ERTVaVEk1TVRRdFpUbGhaUzAwWm1RM0xXSXlObUl0TVdGaE9EYzBZemcyTXpneSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
